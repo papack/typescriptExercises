@@ -13,3 +13,10 @@
  */
 
 //no implemented yet!
+/*
+ * 3.
+ * export and create a variable of type string with the name myString and the
+ *  value 42.
+ */
+
+//not implemented yet!
