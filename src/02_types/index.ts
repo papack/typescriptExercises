@@ -5,3 +5,11 @@
  */
 
 //not implemented yet!
+
+/*
+ * 2.
+ * export and create a variable of type number with the name myNumber and the
+ *  value 42.
+ */
+
+//no implemented yet!
