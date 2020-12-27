@@ -20,7 +20,7 @@
  *  value "Lorem ipsum".
  */
 
- //not implemented yet!
+//not implemented yet!
 
 /*
  * 4.
@@ -28,5 +28,4 @@
  *  values 1,2,3,4
  */
 
-
- //not implemented yet!
+//not implemented yet!

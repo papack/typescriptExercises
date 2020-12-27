@@ -27,7 +27,3 @@ test("Array", () => {
     expect(myArray[i]).toBe(i + 1);
   }
 });
-
-//Any Type
-
-//Enums
