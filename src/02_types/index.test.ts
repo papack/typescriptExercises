@@ -1,4 +1,4 @@
-import { myBoolean, myNumber, myString } from "./index";
+import { myBoolean, myNumber, myString, myArray } from "./index";
 
 // Boolean
 test("Boolean Variable", () => {
@@ -17,3 +17,17 @@ test("String Variable", () => {
   expect(typeof myString).toBe("string");
   expect(myString).toBe("Lorem ipsum");
 });
+
+//Arrays
+test("Array", () => {
+  expect(myArray).toBeInstanceOf(Array);
+  expect(myArray.length).toBe(4);
+
+  for (let i = 0; i < myArray.length; i++) {
+    expect(myArray[i]).toBe(i + 1);
+  }
+});
+
+//Any Type
+
+//Enums

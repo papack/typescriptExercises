@@ -4,7 +4,7 @@
  *  value "true".
  */
 
-//not implemented yet!
+export let myBoolean: boolean = true;
 
 /*
  * 2.
@@ -12,7 +12,7 @@
  *  value 42.
  */
 
-//no implemented yet!
+export let myNumber: number = 42;
 
 /*
  * 3.
@@ -20,7 +20,7 @@
  *  value "Lorem ipsum".
  */
 
- //not implemented yet!
+export let myString: string = "Lorem ipsum";
 
 /*
  * 4.
@@ -28,5 +28,7 @@
  *  values 1,2,3,4
  */
 
+export let myArray: number[] = [1, 2, 3, 4];
 
- //not implemented yet!
+//Alternativ:
+//  export let myArray: Array<number> = [1, 2, 3, 4];
